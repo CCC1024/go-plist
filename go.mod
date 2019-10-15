@@ -1,4 +1,4 @@
-module howett.net/plist
+module github.com/CCC1024/go-plist
 
 require (
 	// for cmd/ply
